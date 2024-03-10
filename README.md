@@ -36,8 +36,11 @@ Good for making yourself a to do list.
 <a id="Visuals"></a>
 ## Visuals
 ![Command prompts](https://github.com/MauryIV/list-generator/assets/146037880/3e865654-e54a-465c-ad11-c2e8666b2fcc)
+
 ![HTML Output](https://github.com/MauryIV/list-generator/assets/146037880/b467e96a-ee5b-44c6-a8df-69769b0425c7)
+
 ![Site display of HTML](https://github.com/MauryIV/list-generator/assets/146037880/646fdb91-79da-4643-8a1f-9f7ef0c31230)
+
 ![Running tests](https://github.com/MauryIV/list-generator/assets/146037880/4ae1e57f-a55a-45c5-b2b4-b2f0e5e2848a)
 
 <a id="tests"></a>
